@@ -5,7 +5,7 @@
 * PyTorch: tensor, attributes, automatic differentiation
 * FashionMNIST dataset
 * [Dense](FashionMNIST_Dense.ipynb) NN architecture
-* [Convolutional](FashionMNIST_SimpleCNN.ipynb) NN architecture
+* [Convolutional](FashionMNIST_SimpleCNN.ipynb) CNN architecture
 * Git and GitHub
 
 **Additional materials:**
