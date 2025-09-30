@@ -1,12 +1,16 @@
 **Date**: Sep 29, 2025
 
-**Slides**:
+**Slides**: https://docs.google.com/presentation/d/1UAl21OYmGm-LunZ1vt0pLg44bkOrlRPZP-teW_PxnbM/edit?usp=sharing
 
-* [ImageNet](https://www.understandingai.org/p/why-the-deep-learning-boom-caught)
 * Transfer Learning & Fine-tuning
 * Data augmentation
 * Learning rate optimization (LR finder, LR scheduling)
-* Gradio
+* HuggingFace Spaces, Gradio
+
+**Additional materials:**
+* [The story behing ImageNet](https://www.understandingai.org/p/why-the-deep-learning-boom-caught)
+* [The fastai book](https://github.com/fastai/fastbook): if you want to learn more, see Chapters 5-7
+* [Why convnext?](https://www.kaggle.com/code/jhoward/which-image-models-are-best): You may wonder why we chose `convnext-tiny`. Here is the comparison across all models included in `timm` package.
 
 **Assignment 03** (due to Oct 13, 8:30 AM):
 
