@@ -14,3 +14,4 @@ In the upcoming sessions, we will cover topics like *Convolutional Neural Networ
   1. [Lesson 02](lesson02/) (22.9.): : Convolutional Neural Networks
   1. [Lesson 03](lesson03/) (29.9.): : Transfer Learning & Fine-tuning
   1. [Lesson 04](lesson04/) (6.10.): : Tokenizers
+  1. [Lesson 05](lesson05/) (13.10.): : Transformers
