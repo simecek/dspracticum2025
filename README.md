@@ -16,3 +16,4 @@ In the upcoming sessions, we will cover topics like *Convolutional Neural Networ
   1. [Lesson 04](lesson04/) (6.10.): Tokenizers
   1. [Lesson 05](lesson05/) (13.10.): Transformers
   1. [Lesson 06](lesson06/) (20.10.): Transformers - training
+  1. [Lesson 07](lesson07/) (27.10.): Backpropagation, Optimizers, Scaling laws, SFT + RLHF
