@@ -17,3 +17,8 @@ In the upcoming sessions, we will cover topics like *Convolutional Neural Networ
   1. [Lesson 05](lesson05/) (13.10.): Transformers
   1. [Lesson 06](lesson06/) (20.10.): Transformers - training
   1. [Lesson 07](lesson07/) (27.10.): Backpropagation, Optimizers, Scaling laws, SFT + RLHF
+  1. Lesson 08 (3.11.): Transformers - finetuning, LoRA
+  1. Lesson 09 (10.11.): Transformers and tabular data (also LightGBM)
+  1. Lesson 10 (24.11.): Transformers and time series, Applications to Genomics and Proteomics 
+  1. Lesson 11 (1.12.): Other modalities: generating images, OCR, audio, multimodality; Ethical concerns
+  1. Lesson 12 (15.12.): Final discussion
