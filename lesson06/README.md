@@ -7,6 +7,7 @@
 * Original [GPT-2 paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) + [some exploration](https://www.kapilsharma.dev/posts/exploring-gpt2/)
 * Karpathy's [Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU) lecture going a bit deeper
 * Karpathy's [nanochat](https://github.com/karpathy/nanochat)
+* [Everything About Transformers](https://www.krupadave.com/articles/everything-about-transformers)
 
 **Assignment 06** (due **Nov 3, 8:30 AM**)
 
